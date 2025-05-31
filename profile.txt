@@ -5,5 +5,4 @@ Skills
 - Git & GitHub
 - HTML/CSS
 - JavaScript
-- Python
 ToiLaCho

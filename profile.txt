@@ -1,2 +1,8 @@
 Name: Ân  
 Interests: Coding, Design
+
+Skills
+- Git & GitHub
+- HTML/CSS
+- JavaScript
+- Python
